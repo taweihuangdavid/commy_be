@@ -1,5 +1,5 @@
 const winston = require("winston");
-require("winston-mongodb");
+require("winston-mongodb"); //should disable this while testing, not sure why
 require("express-async-errors");
 
 module.exports = function () {
@@ -15,5 +15,5 @@ module.exports = function () {
   winston.add(winston.transports.MongoDB, {
     db: "mongodb://localhost/commy",
     level: "info",
-  });
+  }); //should disable this while testing, not sure why
 };
