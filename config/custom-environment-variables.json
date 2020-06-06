@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "commy_jwtPrivateKey"
+  "jwtPrivateKey": "commy_jwtPrivateKey",
+  "db": "commy_db"
 }
