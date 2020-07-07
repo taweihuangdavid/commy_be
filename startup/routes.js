@@ -13,6 +13,7 @@ module.exports = function (app) {
   app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*"); // state what domain is allowed to make request
     res.header("Access-Control-Allow-Headers", "*"); // state what request header fields are allowed
+    res.heaer("Access-Control-Allow-Methods", "*"); // state what methods are allow for making request, except the simple methods like GET, HEAD, POST
     next();
   });
   app.use("/api/genres", genres);
