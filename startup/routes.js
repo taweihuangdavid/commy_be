@@ -11,7 +11,8 @@ const error = require("../middleware/error");
 module.exports = function (app) {
   app.use(express.json());
   app.use(function (req, res, next) {
-    res.header("Access-Control-Allow-Headers", "*"); // update to match the domain you will make the request from
+    res.header("Access-Control-Allow-Origin", "*"); // state what domain is allowed to make request
+    res.header("Access-Control-Allow-Headers", "*"); // state what request header fields are allowed
     next();
   });
   app.use("/api/genres", genres);
