@@ -3,3 +3,4 @@
 {"message":"sth. failed","stack":"Error: sth. failed\n    at D:\\Desktop\\Mosh Example\\nodejs\\Nodejs Project\\commy\\routes\\users.js:22:9","level":"error","timestamp":"2020-05-18T06:17:19.872Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-18T06:21:56.715Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2020-07-06T15:04:47.485Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-07-06T15:22:16.442Z"}
