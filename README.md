@@ -7,6 +7,7 @@ This is a simple Web Backend API for Comic Rental Service.
 Project is created with:
 
 - NodeJs, Express
+- RESTful APIs
 - Mongodb, Mongoose
 - Heroku (PaaS)
 - Mongodb Atlas (DaaS)
