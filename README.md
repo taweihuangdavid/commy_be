@@ -6,20 +6,20 @@ This is a simple Web Backend API for Commic Rental Service.
 
 Project is created with:
 
--NodeJs, Express
--Mongodb, Mongoose
--Heroku (PaaS)
--Mongodb Atlas (DaaS)
+*NodeJs, Express
+*Mongodb, Mongoose
+*Heroku (PaaS)
+*Mongodb Atlas (DaaS)
 
 ## Features
 
--CR Operations on Users
--Authentication & Authorization on Users
--CRUD Operations on Genres
--CRUD Operations on Comics
--CRUD Operations on Customers
--CR Operations on Rentals
--C Operations on Returns
+*CR Operations on Users
+*Authentication & Authorization on Users
+*CRUD Operations on Genres
+*CRUD Operations on Comics
+*CRUD Operations on Customers
+*CR Operations on Rentals
+\*C Operations on Returns
 
 ## Demo
 
