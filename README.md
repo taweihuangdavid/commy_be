@@ -1,6 +1,6 @@
 ## Commy
 
-This is a simple Web Backend API for Commic Rental Service.
+This is a simple Web Backend API for Comic Rental Service.
 
 ## Technology Stack
 
