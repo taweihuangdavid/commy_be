@@ -1,6 +1,6 @@
 ## Commy
 
-This is a simple Web Backend API for Comic Rental Service.
+This is a simple Web Backend API for Comic Books Rental Service.
 
 ## Technology Stack
 
@@ -9,6 +9,7 @@ Project is created with:
 - NodeJs, Express
 - RESTful APIs
 - Mongodb, Mongoose
+- JSON Web Tokens (JWT)
 - Heroku (PaaS)
 - Mongodb Atlas (DaaS)
 
